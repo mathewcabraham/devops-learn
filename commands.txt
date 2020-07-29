@@ -1,0 +1,7 @@
+Create file in CMD
+notepad myfile.txt
+
+Edit file in CMD
+
+copy con <path/filename>
+
